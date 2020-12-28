@@ -4,4 +4,11 @@
 #create the python environement 
 python -m venv alpr
 alpr/Scripts/activate
+# make sure pip 20.2.3
+pip install -r requirements.txt
+
+
+
+
+
 ```
